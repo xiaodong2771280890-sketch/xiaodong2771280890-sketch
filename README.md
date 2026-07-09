@@ -50,8 +50,8 @@ Focused on **Urban Safety · AI Agents · Full-stack Engineering**.
 
 <div align="center">
 
-| GitHub | Email | Project |
+| GitHub | QQ Mail | Project |
 | :---: | :---: | :---: |
-| [xiaodong2771280890-sketch](https://github.com/xiaodong2771280890-sketch) | [Gmail](mailto:xiaodong2771280890@gmail.com) | [city-safety-team-system](https://github.com/huixiahuaqiu/city-safety-team-system) |
+| [xiaodong2771280890-sketch](https://github.com/xiaodong2771280890-sketch) | [2771280890@qq.com](mailto:2771280890@qq.com) | [city-safety-team-system](https://github.com/huixiahuaqiu/city-safety-team-system) |
 
 </div>
