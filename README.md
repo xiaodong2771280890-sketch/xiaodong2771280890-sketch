@@ -1,13 +1,6 @@
-<!--
-  GitHub Profile README
-  仓库名必须与用户名完全一致：xiaodong2771280890-sketch
-  发布后请访问：https://github.com/xiaodong2771280890-sketch
-  （不是 github.com 首页动态流）
--->
-
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Xiaodong — Web Systems · Team Tools · Urban Safety" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Xiaodong - Web Systems, Team Tools, Urban Safety" width="100%" />
 
 <br/>
 
@@ -17,18 +10,18 @@
 
 ---
 
-### 𝑨𝒃𝒐𝒖𝒕
+### About
 
 <div align="center">
 
-热爱构建清晰、好用的 Web 系统与团队协作工具  
-同时关注 **城市安全 / AI Agent / 全栈工程** 方向  
+I build clear, practical web systems and team collaboration tools.  
+Focused on **Urban Safety / AI Agents / Full-stack Engineering**.
 
 </div>
 
 ---
 
-### 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
+### Tech Stack
 
 <div align="center">
 
@@ -38,7 +31,7 @@
 
 ---
 
-### 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
+### GitHub Stats
 
 <div align="center">
 
@@ -53,13 +46,13 @@
 
 ---
 
-### 𝑭𝒐𝒍𝒍𝒐𝒘 𝑴𝒆
+### Follow Me
 
 <div align="center">
 
-| 💻 𝑮𝒊𝒕𝑯𝒖𝒃 | 📩 𝑬𝒎𝒂𝒊𝒍 | 🌐 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 |
+| GitHub | Email | Project |
 | :---: | :---: | :---: |
-| [xiaodong2771280890-sketch](https://github.com/xiaodong2771280890-sketch) | [Email](mailto:YOUR_EMAIL@example.com) | [city-safety-team-system](https://github.com/huixiahuaqiu/city-safety-team-system) |
+| [xiaodong2771280890-sketch](https://github.com/xiaodong2771280890-sketch) | [xiaodong2771280890@gmail.com](mailto:xiaodong2771280890@gmail.com) | [city-safety-team-system](https://github.com/huixiahuaqiu/city-safety-team-system) |
 
 </div>
 
@@ -67,6 +60,6 @@
 
 <div align="center">
 
-⭐️ From [xiaodong2771280890-sketch](https://github.com/xiaodong2771280890-sketch)
+From [xiaodong2771280890-sketch](https://github.com/xiaodong2771280890-sketch)
 
 </div>
